@@ -1,0 +1,38 @@
+img {
+    max-height:150px;
+    width:auto;
+}
+table {
+    margin-left:auto; 
+    margin-right:auto;
+    border:30px solid transparent
+}
+td{
+  font-size:medium;text-align:center;padding:10px
+}
+.linkvid
+{
+    text-align: left; font-size: small;
+}
+
+.anakin
+{
+    text-align: center; font-size: medium; color: blue
+}
+
+.palpatine
+{
+    text-align: center; font-size: medium; color: red
+}
+.caption1
+{
+    text-align: left; font-size: medium;
+}
+.caption2
+{
+    text-align: right; font-size: medium;
+}
+.centered{
+  text-align:center
+}
+footer{font-size:small}
